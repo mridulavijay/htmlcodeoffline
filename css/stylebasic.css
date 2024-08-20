@@ -1,0 +1,25 @@
+body{
+    /* background-image: url('/images/download.jpg'); */
+    background-size: cover;
+}
+#image_1{
+    width: 50%;
+    height: auto;
+}
+.grp1{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    border: 2px solid red;
+}
+table{
+    border: 2px solid brown;
+    border-collapse: collapse;
+    margin:5% 30% 5% 40%;
+}
+table tr{
+    border-bottom: 2px solid red;
+   
+}
+table td{
+    border-right: 3px solid green;
+    padding: 7px 10px 7px 10px;
+}
